@@ -1,0 +1,14 @@
+{
+    "name": "finlender bot",
+    "version": "1.0.0",
+    "description": "webhook for finlender dialogflow agent",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "kumar rahul",
+    "dependencies": {
+        "body-parser": "^1.15.0",
+        "express": "^4.13.4"
+    }
+}
